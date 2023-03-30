@@ -6,6 +6,6 @@ Soy bueno en:
 
 - Desarrollo de videojuegos en unity.
 - Frontend (html, css, javascript).
+- Backend (php, python).
 - C#.
-- Python.
 
